@@ -9,6 +9,11 @@
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
 
+    <modules>
+        <module>rmi-consumer</module>
+        <module>rmi-provider</module>
+    </modules>
+
 
 
 </project>
