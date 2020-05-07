@@ -12,6 +12,7 @@
     <modules>
         <module>rmi-consumer</module>
         <module>rmi-provider</module>
+        <module>http-invoker-provider</module>
     </modules>
 
 
